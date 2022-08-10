@@ -1,0 +1,23 @@
+h1 {
+    font-family: 'LED Digital 7', sans-serif;
+    font-size: 100px;
+}
+
+button {
+    border: none;
+    width: 125px;
+    height: 40px;
+    font-size: 20px;
+}
+
+#stop {
+    background-color: red;
+}
+
+#start {
+    background-color: green;
+}
+
+#reset {
+    background-color: orange;
+}
